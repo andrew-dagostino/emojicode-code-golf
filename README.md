@@ -4,7 +4,7 @@ Emojicode programs to built to solve code golfing problems in as little characte
 
 ## Running the Code
 
-* Use Try It Out Online's service: https://tio.run/#emojicode6
+* Use Try It Online's service: https://tio.run/#emojicode6
 * Install Emojicode on your computer: https://www.emojicode.org/docs/guides/install.html
 
 ## Folder Structure
