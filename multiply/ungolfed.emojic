@@ -1,15 +1,15 @@
 🏁🍇
-    🆕🔡👂🏼❗➡🖍🆕s 💭 Read initial string of digits from stdin and print it out
-    😀s❗
+    🆕🔡👂🏼❗➡🖍🆕string 💭 Read initial string of digits from stdin and print it out
+    😀string❗
 
-    🔁📐s❗▶1🍇 💭 Loop while the string contians more than 1 digit
-        1➡🖍🆕p 💭 Initialize product variable to 1
+    🔁📐string❗ ▶ 1🍇 💭 Loop while the string contains more than 1 digit
+        1➡🖍🆕product 💭 Initialize product variable to 1
 
-        🔂a s🍇
-            p⬅✖🍺🔢a 10❗ 💭 Multiply each digit in the string into the product, first converting to base 10 integer
+        🔂digit string🍇
+            product⬅✖🍺🔢digit 10❗ 💭 Multiply each digit in the string into the product, first converting to base 10 integer
         🍉
 
-        🔡p 10❗➡🖍s 💭 Store product as the new digit string and print it
-        😀s❗
+        🔡product 10❗➡🖍string 💭 Store product as the new digit string and print it
+        😀string❗
     🍉
 🍉
