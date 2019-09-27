@@ -4,8 +4,14 @@ Emojicode programs to built to solve code golfing problems in as little characte
 
 ## Running the Code
 
-* Use Try It Online's service: https://tio.run/#emojicode6
-* Install Emojicode on your computer: https://www.emojicode.org/docs/guides/install.html
+* [Try It Online](https://tio.run/#emojicode6)
+* [Install Emojicode on your computer](https://www.emojicode.org/docs/guides/install.html)
+
+## Emojicode Documentation
+
+All Emojicode documentation can be found on the [official website](https://www.emojicode.org/docs/).  
+
+Alternatively, you can take a look through their [GitHub repo](https://github.com/emojicode/emojicode), which contains some usage examples in the `tests` folder and other places.
 
 ## Folder Structure
 ```
