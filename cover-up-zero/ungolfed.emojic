@@ -1,0 +1,11 @@
+🏁🍇
+    🔤0🔤➡🖍🆕last 💭 Variable storing last non-zero initialized to zero in the case 0 is the first integer
+
+    🔂char 🔫 🆕🔡👂🏼❗ 🔤 🔤❗🍇 💭 Loop through the array of characters created by splitting a string taken from stdin
+        ↪❎ char 🙌 🔤0🔤 ❗🍇 💭 If the character is not zero, store it as the last non-zero character
+            char ➡ 🖍last
+        🍉
+
+        👄🍪last 🔤 🔤🍪❗ 💭 Print the last non-zero character with a separating space
+    🍉
+🍉
